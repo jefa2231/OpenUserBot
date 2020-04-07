@@ -39,6 +39,7 @@ telethon-session-sqlalchemy>=0.2.6
 urbandict>=0.5
 wikipedia>=1.4.0
 coffeehouse>=2.1.0
+pip>=19.2.3
 git+https://github.com/johnwmillr/LyricsGenius.git
 lyricsgenius
 redis>=3.3.10
